@@ -5,16 +5,16 @@ This Section is for C++ Codes.
 The following are the links for Codes.
 
  
-1) <a href=""> Problem 1 </a>
-2) <a href=""> Problem 2 </a>
-3) <a href=""> Problem 3 </a>
-4) <a href=""> Problem 4 </a>
-5) <a href=""> Problem 5 </a>
-6) <a href=""> Problem 6 </a>
-7) <a href=""> Problem 7 </a>
-8) <a href=""> Problem 8 </a>
-9) <a href=""> Problem 9 </a>
-10) <a href=""> Problem 10 </a>
+1) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%200.c"> Problem 1 </a>
+2) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%201.c"> Problem 2 </a>
+3) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%202.c"> Problem 3 </a>
+4) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%203.c"> Problem 4 </a>
+5) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%204.c"> Problem 5 </a>
+6) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%205.c"> Problem 6 </a>
+7) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%206.c"> Problem 7 </a>
+8) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%207.c"> Problem 8 </a>
+9) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%208.c"> Problem 9 </a>
+10) <a href="https://github.com/NilayPawale/C/blob/main/Codes/Sunbeam%20Assignments/Question%209.c"> Problem 10 </a>
 11) <a href=""> Problem 11 </a>
 12) <a href=""> Problem 12 </a>
 13) <a href=""> Problem 13 </a>
